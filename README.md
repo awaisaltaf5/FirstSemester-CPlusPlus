@@ -1,2 +1,1 @@
-# C++_1st_All Code
- 
+This repository contains all the C++ code and projects from my first semester. It includes fundamental concepts such as basic syntax, control statements, loops, functions, arrays, pointers, and introductory object-oriented programming. These projects aim to build a solid foundation in C++ programming and provide practical experience with common data structures and algorithms. Feel free to explore, use as a reference, and contribute!
